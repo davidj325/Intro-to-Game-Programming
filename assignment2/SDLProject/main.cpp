@@ -52,11 +52,11 @@ constexpr int VIEWPORT_X      = 0,
 constexpr char V_SHADER_PATH[] = "shaders/vertex_textured.glsl";
 constexpr char F_SHADER_PATH[] = "shaders/fragment_textured.glsl";
 
-constexpr char BACKGROUND_TEXTURE_PATH[] = "/Users/davidj/Desktop/assignment2/SDLProject/court.png";
-constexpr char PADDLE_TEXTURE_PATH[]     = "/Users/davidj/Desktop/assignment2/SDLProject/paddle.png";
-constexpr char BALL_TEXTURE_PATH[]       = "/Users/davidj/Desktop/assignment2/SDLProject/ball.png";
-constexpr char LEFT_WIN_TEXTURE_PATH[]   = "/Users/davidj/Desktop/assignment2/SDLProject/left-win.png";
-constexpr char RIGHT_WIN_TEXTURE_PATH[]  = "/Users/davidj/Desktop/assignment2/SDLProject/right-win.png";
+constexpr char BACKGROUND_TEXTURE_PATH[] = "/Users/davidj/Desktop/Intro-to-Game-Programming/assignment2/SDLProject/court.png";
+constexpr char PADDLE_TEXTURE_PATH[]     = "/Users/davidj/Desktop/Intro-to-Game-Programming/assignment2/SDLProject/paddle.png";
+constexpr char BALL_TEXTURE_PATH[]       = "/Users/davidj/Desktop/Intro-to-Game-Programming/assignment2/SDLProject/ball.png";
+constexpr char LEFT_WIN_TEXTURE_PATH[]   = "/Users/davidj/Desktop/Intro-to-Game-Programming/assignment2/SDLProject/left-win.png";
+constexpr char RIGHT_WIN_TEXTURE_PATH[]  = "/Users/davidj/Desktop/Intro-to-Game-Programming/assignment2/SDLProject/right-win.png";
 
 AppStatus g_app_status = RUNNING;
 SDL_Window* g_display_window;
