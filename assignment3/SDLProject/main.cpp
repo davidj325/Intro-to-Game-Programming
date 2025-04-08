@@ -47,13 +47,13 @@ constexpr int VIEWPORT_X      = 0,
 constexpr char V_SHADER_PATH[] = "shaders/vertex_textured.glsl";
 constexpr char F_SHADER_PATH[] = "shaders/fragment_textured.glsl";
 
-constexpr char BACKGROUND_TEXTURE_PATH[] = "/Users/davidj/Desktop/assignment3/SDLProject/space.jpg";
-constexpr char ROCKET_TEXTURE_PATH[]     = "/Users/davidj/Desktop/assignment3/SDLProject/rocket.jpg";
-constexpr char FLAMES_TEXTURE_PATH[]     = "/Users/davidj/Desktop/assignment3/SDLProject/flames.jpg";
-constexpr char FUEL_TEXTURE_PATH[]       = "/Users/davidj/Desktop/assignment3/SDLProject/fuel.jpg";
-constexpr char PLATFORM_TEXTURE_PATH[]   = "/Users/davidj/Desktop/assignment3/SDLProject/platform.jpg";
-constexpr char WIN_TEXTURE_PATH[]        = "/Users/davidj/Desktop/assignment3/SDLProject/win.jpg";
-constexpr char LOSE_TEXTURE_PATH[]       = "/Users/davidj/Desktop/assignment3/SDLProject/lose.jpg";
+constexpr char BACKGROUND_TEXTURE_PATH[] = "/Users/davidj/Desktop/Intro-to-Game-Programming/assignment3/SDLProject/space.jpg";
+constexpr char ROCKET_TEXTURE_PATH[]     = "/Users/davidj/Desktop/Intro-to-Game-Programming/assignment3/SDLProject/rocket.jpg";
+constexpr char FLAMES_TEXTURE_PATH[]     = "/Users/davidj/Desktop/Intro-to-Game-Programming/assignment3/SDLProject/flames.jpg";
+constexpr char FUEL_TEXTURE_PATH[]       = "/Users/davidj/Desktop/Intro-to-Game-Programming/assignment3/SDLProject/fuel.jpg";
+constexpr char PLATFORM_TEXTURE_PATH[]   = "/Users/davidj/Desktop/Intro-to-Game-Programming/assignment3/SDLProject/platform.jpg";
+constexpr char WIN_TEXTURE_PATH[]        = "/Users/davidj/Desktop/Intro-to-Game-Programming/assignment3/SDLProject/win.jpg";
+constexpr char LOSE_TEXTURE_PATH[]       = "/Users/davidj/Desktop/Intro-to-Game-Programming/assignment3/SDLProject/lose.jpg";
 
 constexpr float GRAVITY = 0.15f;
 constexpr float LATERAL_THRUST = 2.0f;
