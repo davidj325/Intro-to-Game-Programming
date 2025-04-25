@@ -42,13 +42,13 @@ constexpr float BG_RED     = 0.1f,
 constexpr char V_SHADER_PATH[] = "shaders/vertex_textured.glsl";
 constexpr char F_SHADER_PATH[] = "shaders/fragment_textured.glsl";
 
-constexpr char FONTSHEET_FILEPATH[] = "/Users/davidj/Desktop/assginment4/SDLProject/font1.png";
-constexpr char TILEMAP_FILEPATH[]   = "/Users/davidj/Desktop/assginment4/SDLProject/tilemap_packed.png";
-constexpr char CHARACTER_FILEPATH[] = "/Users/davidj/Desktop/assginment4/SDLProject/character-male-c.png";
-constexpr char GHOST_FILEPATH[]        = "/Users/davidj/Desktop/assginment4/SDLProject/character-ghost.png";
-constexpr char SKELETON_FILEPATH[] = "/Users/davidj/Desktop/assginment4/SDLProject/character-skeleton.png";
-constexpr char BGM_FILEPATH[]          = "/Users/davidj/Desktop/assginment4/SDLProject/Cloud_Dancer.mp3";
-constexpr char COFFIN_FILEPATH[]       = "/Users/davidj/Desktop/assginment4/SDLProject/coffin.png";
+constexpr char FONTSHEET_FILEPATH[] = "/Users/davidj/Desktop/Intro-to-Game-Programming/assginment4/SDLProject/font1.png";
+constexpr char TILEMAP_FILEPATH[]   = "/Users/davidj/Desktop/Intro-to-Game-Programming/assginment4/SDLProject/tilemap_packed.png";
+constexpr char CHARACTER_FILEPATH[] = "/Users/davidj/Desktop/Intro-to-Game-Programming/assginment4/SDLProject/character-male-c.png";
+constexpr char GHOST_FILEPATH[]        = "/Users/davidj/Desktop/Intro-to-Game-Programming/assginment4/SDLProject/character-ghost.png";
+constexpr char SKELETON_FILEPATH[] = "/Users/davidj/Desktop/Intro-to-Game-Programming/assginment4/SDLProject/character-skeleton.png";
+constexpr char BGM_FILEPATH[]          = "/Users/davidj/Desktop/Intro-to-Game-Programming/assginment4/SDLProject/Cloud_Dancer.mp3";
+constexpr char COFFIN_FILEPATH[]       = "/Users/davidj/Desktop/Intro-to-Game-Programming/assginment4/SDLProject/coffin.png";
 
 constexpr GLint NUMBER_OF_TEXTURES = 1,
               LEVEL_OF_DETAIL    = 0,
